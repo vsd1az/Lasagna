@@ -1,0 +1,20 @@
+.container {
+	font-family: Georgia, serif;
+	border-left: 1px solid lightgrey;
+	border-right: 1px solid lightgrey;
+}
+
+.col-lg {
+	padding: 8px;
+
+}
+
+.col-lg-6 {
+	padding: 8px;
+	
+}
+
+.col-lg-3 {
+	padding: 8px;
+	
+}
